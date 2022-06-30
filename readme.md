@@ -13,12 +13,12 @@
 
 ## Usage
 
-1. Open ct.js
+1. Open [ct.js](https://ctjs.rocks/), or [download](https://ctjs.rocks/download/) and install it if you have not already
 2. Navigate to the ct.IDE menu, the tab furthest to the left
 3. Under Settings, click on Theme
 4. Select your desired theme
 
-If you are unable to find Rosé Pine in the list of themes you may need to update your ct.js installation to the latest version
+If you are unable to find Rosé Pine in the list of themes you may need to update your ct.js installation to the latest version, if you have not done so already
 
 ## Gallery
 
