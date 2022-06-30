@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for ct.js</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,33 +13,37 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open ct.js
+2. Navigate to the ct.IDE menu, the tab furthest to the left
+3. Under Settings, click on Theme
+4. Select your desired theme
+
+If you are unable to find Rosé Pine in the list of themes you may need to update your ct.js installation to the latest version
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine Syntax Highlighting](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Ehan A](https://github.com/EhanAhamed)
+- [CoMiGo](https://github.com/CosmoMyzrailGorynych)
 
 ## Contributing
 
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
+Themes for ct.js are created in it's own [github repository](https://github.com/ct-js/ct-js/).
 
-Modify `template.json` using Rosé Pine variables, then build variants:
+To contribute to the Rosé Pine ct.js theme, navigate to the following files in ct.js's github repository to make changes:
 
-```sh
-npx @rose-pine/build@latest
-```
+- [`src/styl/themeRosePine.styl`](https://github.com/ct-js/ct-js/tree/develop/src/styl/themeRosePine.styl)
+- [`src/node_requires/monaco-themes/RosePine.json`](https://github.com/ct-js/ct-js/tree/develop/src/node_requires/monaco-themes/RosePine.json)
 
-## Style guide
+- [`src/styl/themeRosePineMoon.styl`](https://github.com/ct-js/ct-js/tree/develop/src/styl/themeRosePineMoon.styl)
+- [`src/node_requires/monaco-themes/RosePineMoon.json`](https://github.com/ct-js/ct-js/tree/develop/src/node_requires/monaco-themes/RosePineMoon.json)
 
-> Be sure to remove this section 😌
+- [`src/styl/themeRosePineDawn.styl`](https://github.com/ct-js/ct-js/tree/develop/src/styl/themeRosePineDawn.styl)
+- [`src/node_requires/monaco-themes/RosePineDawn.json`](https://github.com/ct-js/ct-js/tree/develop/src/node_requires/monaco-themes/RosePineDawn.json)
 
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+Then open a pull request in ct.js's github repository to contribute your changes.
+
+For further contributor documentation refer to ct.js's own documentation and forums.
