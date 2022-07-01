@@ -25,7 +25,12 @@ If you are unable to find Rosé Pine in the list of themes you may need to updat
 ![Screenshot](https://user-images.githubusercontent.com/98765025/176804663-ae136e98-e5c4-4fc6-9e1c-1070f284f09a.png)
 ![Screenshot](https://user-images.githubusercontent.com/98765025/176805348-1907d2c8-7855-46f1-a8e9-5b276e7e20cb.png)
 ![Screenshot](https://user-images.githubusercontent.com/98765025/176805500-eba1cb2e-ff23-4269-ab5e-863aff1c15d9.png)
-
+![Screenshot Moon](https://user-images.githubusercontent.com/98765025/176808888-a1048e21-56eb-400c-9cdc-2fdcb61c4afe.png)
+![Screenshot Moon](https://user-images.githubusercontent.com/98765025/176808914-f0df2317-7811-4bbe-9c5a-dc698c9568a4.png)
+![Screenshot Moon](https://user-images.githubusercontent.com/98765025/176808949-80607e17-34e9-4199-b5e7-c47d3bb7d1c6.png)
+![Screenshot Dawn](https://user-images.githubusercontent.com/98765025/176809009-177e8776-9fe7-4e83-8542-e1a9c3bed996.png)
+![Screenshot Dawn](https://user-images.githubusercontent.com/98765025/176809028-3e915db9-2039-4573-a1b5-144426a753df.png)
+![Screenshot Dawn](https://user-images.githubusercontent.com/98765025/176809043-9251b3b6-c5ab-468a-bbbe-10d326479d47.png)
 
 ## Thanks to
 
