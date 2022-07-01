@@ -22,18 +22,19 @@ If you are unable to find Rosé Pine in the list of themes you may need to updat
 
 ## Gallery
 
-![Rosé Pine Syntax Highlighting](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![ct.IDE menu](https://user-images.githubusercontent.com/98765025/176804663-ae136e98-e5c4-4fc6-9e1c-1070f284f09a.png)
 
 ## Thanks to
 
 - [Ehan A](https://github.com/EhanAhamed)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
 - [CoMiGo](https://github.com/CosmoMyzrailGorynych)
 
 ## Contributing
 
 Themes for ct.js are created in it's own [github repository](https://github.com/ct-js/ct-js/).
 
-To contribute to the Rosé Pine ct.js theme, navigate to the following files in ct.js's github repository to make changes:
+To contribute to the Rosé Pine ct.js theme, navigate to the following files in ct.js's github repository and make any necessary changes:
 
 - [`src/styl/themeRosePine.styl`](https://github.com/ct-js/ct-js/tree/develop/src/styl/themeRosePine.styl)
 - [`src/node_requires/monaco-themes/RosePine.json`](https://github.com/ct-js/ct-js/tree/develop/src/node_requires/monaco-themes/RosePine.json)
