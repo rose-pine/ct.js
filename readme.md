@@ -35,8 +35,8 @@ If you are unable to find Rosé Pine in the list of themes you may need to updat
 ## Thanks to
 
 - [Ehan A](https://github.com/EhanAhamed)
-- [ThatOneCalculator](https://github.com/thatonecalculator)
-- [CoMiGo](https://github.com/CosmoMyzrailGorynych)
+- [ThatOneCalculator](https://github.com/thatonecalculator) - Maintainer of [Rosé Pine for highlight.js](https://github.com/rose-pine/hljs/) (See [`src/node_requires/themes/3rdParty/highlight.js/RosePine.css`](https://github.com/ct-js/ct-js/blob/develop/src/node_requires/themes/3rdParty/highlight.js/RosePine.css)
+- [CoMiGo](https://github.com/CosmoMyzrailGorynych) - Maintainer of ct.js
 
 ## Contributing
 
