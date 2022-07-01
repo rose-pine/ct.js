@@ -22,7 +22,10 @@ If you are unable to find Rosé Pine in the list of themes you may need to updat
 
 ## Gallery
 
-![ct.IDE menu](https://user-images.githubusercontent.com/98765025/176804663-ae136e98-e5c4-4fc6-9e1c-1070f284f09a.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/176804663-ae136e98-e5c4-4fc6-9e1c-1070f284f09a.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/176805348-1907d2c8-7855-46f1-a8e9-5b276e7e20cb.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/176805500-eba1cb2e-ff23-4269-ab5e-863aff1c15d9.png)
+
 
 ## Thanks to
 
